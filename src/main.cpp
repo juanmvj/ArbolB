@@ -7,7 +7,7 @@
 
 int main()
 {
-	Arbol ab = Arbol(10);
+	Arbol ab = Arbol(15);
 
 	ab.ShowA();
 
