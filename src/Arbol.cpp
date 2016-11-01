@@ -88,7 +88,7 @@ eliminamos  un nodo por referencia
 */
 bool Arbol::EliminarRef(int ref)
 {
-	Nodo* aux=BuscarRef(ref);
+	Nodo *aux = BuscarRef(ref);
 	if (aux == NULL)
 	{
 		return false;
